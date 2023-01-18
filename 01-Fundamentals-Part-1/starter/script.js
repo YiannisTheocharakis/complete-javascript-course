@@ -1,7 +1,8 @@
-let js='amazing'
-let res = 40+8+9;
-console.log(res);
+console.log("Parsing script.js")
+// const templLiteral = `Mark weights ${massMark} and is ${heightMark} tall`
+// console.log(templLiteral)
+// console.log("Multiple line \n\ example")
+// console.log(`Multiple line 
+// example`)
 
-let firstName="Jonas";
-const PI=3.14;
-const PI=3.15;
+const age=15;
