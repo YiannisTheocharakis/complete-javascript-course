@@ -5,4 +5,19 @@ console.log("Parsing script.js")
 // console.log(`Multiple line 
 // example`)
 
-const age=15;
+console.log(Boolean(0))
+console.log(Boolean(undefined))
+console.log(Boolean(23))
+console.log(Boolean("test"))
+
+const money=0
+
+if(money)
+    console.log(`Don't spend it all 🎂`)
+else
+    console.log(`get a job`)
+
+// let num1  = prompt("Give first number");
+// let num2  = prompt("Give second number");
+// alert(`Result = ${Number(num1)+Number(num2)}`)
+
